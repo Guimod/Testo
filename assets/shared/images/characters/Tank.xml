@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Tank.png" width="6870" height="1443">
+	<SubTexture name="PRETTY GOOD tankman 10000" x="2841" y="406" width="562" height="432" rotated="true" frameX="-99" frameY="-26" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10001" x="3406" y="407" width="562" height="432" rotated="true" frameX="-99" frameY="-26" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10002" x="1127" y="0" width="589" height="403" rotated="true" frameX="-130" frameY="-0" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10003" x="1719" y="0" width="589" height="403" rotated="true" frameX="-130" frameY="-0" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10004" x="3445" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10005" x="3445" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10006" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10007" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10008" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10009" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10010" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10011" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10012" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10013" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10014" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10015" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10016" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10017" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10018" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10019" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10020" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10021" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10022" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10023" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10024" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10025" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10026" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10027" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10028" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10029" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10030" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10031" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10032" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10033" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10034" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10035" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10036" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10037" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10038" x="4028" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10039" x="4611" y="0" width="580" height="404" rotated="true" frameX="-129" frameY="-9" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10040" x="5194" y="0" width="555" height="408" rotated="true" frameX="-120" frameY="-33" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10041" x="5752" y="0" width="555" height="408" rotated="true" frameX="-120" frameY="-33" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10042" x="6268" y="916" width="560" height="527" rotated="true" frameX="-0" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10043" x="6268" y="916" width="560" height="527" rotated="true" frameX="-0" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10044" x="5142" y="897" width="560" height="524" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10045" x="1764" y="837" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10046" x="1764" y="837" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10047" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10048" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10049" x="2890" y="842" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10050" x="3453" y="862" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10051" x="3453" y="862" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10052" x="5705" y="916" width="560" height="524" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10053" x="5705" y="916" width="560" height="524" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10054" x="4016" y="879" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10055" x="4016" y="879" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10056" x="4579" y="896" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10057" x="4579" y="896" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10058" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10059" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10060" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10061" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10062" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10063" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10064" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10065" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="PRETTY GOOD tankman 10066" x="2327" y="841" width="560" height="523" rotated="true" frameX="-5" frameY="-28" frameWidth="533" frameHeight="589"/>
+	<SubTexture name="TANKMAN UGH 10000" x="4" y="0" width="555" height="391" rotated="true" frameX="-7" frameY="-9" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10001" x="4" y="0" width="555" height="391" rotated="true" frameX="-7" frameY="-9" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10002" x="562" y="0" width="562" height="401" rotated="true" frameX="-1" frameY="-2" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10003" x="562" y="0" width="562" height="401" rotated="true" frameX="-1" frameY="-2" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10004" x="2311" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10005" x="2311" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10006" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10007" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10008" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10009" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10010" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10011" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10012" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10013" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10014" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="TANKMAN UGH 10015" x="2878" y="0" width="564" height="403" rotated="true" frameX="-0" frameY="-0" frameWidth="403" frameHeight="564"/>
+	<SubTexture name="Tankman DOWN note 10000" x="3971" y="407" width="565" height="452" frameX="-11" frameY="-21" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10001" x="3971" y="407" width="565" height="452" frameX="-11" frameY="-21" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10002" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10003" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10004" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10005" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10006" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10007" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10008" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note 10009" x="4539" y="407" width="579" height="469" frameX="-0" frameY="-0" frameWidth="580" frameHeight="473"/>
+	<SubTexture name="Tankman Idle Dance 10000" x="0" y="394" width="553" height="425" rotated="true" frameX="-1" frameY="-19" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10001" x="0" y="394" width="553" height="425" rotated="true" frameX="-1" frameY="-19" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10002" x="556" y="404" width="556" height="427" rotated="true" frameX="-0" frameY="-17" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10003" x="556" y="404" width="556" height="427" rotated="true" frameX="-0" frameY="-17" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10004" x="6310" y="0" width="560" height="424" rotated="true" frameX="-5" frameY="-13" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10005" x="6310" y="0" width="560" height="424" rotated="true" frameX="-5" frameY="-13" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10006" x="1115" y="406" width="572" height="427" rotated="true" frameX="-5" frameY="-1" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10007" x="1690" y="406" width="572" height="428" rotated="true" frameX="-4" frameY="-1" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10008" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10009" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10010" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10011" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10012" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Idle Dance 10013" x="2265" y="406" width="573" height="428" rotated="true" frameX="-4" frameY="-0" frameWidth="432" frameHeight="573"/>
+	<SubTexture name="Tankman Note Left 10000" x="0" y="822" width="525" height="501" rotated="true" frameX="-0" frameY="-16" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10001" x="0" y="822" width="525" height="501" rotated="true" frameX="-0" frameY="-16" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10002" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10003" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10004" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10005" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10006" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Note Left 10007" x="6244" y="427" width="541" height="486" rotated="true" frameX="-18" frameY="-1" frameWidth="504" frameHeight="542"/>
+	<SubTexture name="Tankman Right Note 10000" x="5684" y="411" width="557" height="483" rotated="true" frameX="-12" frameY="-3" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10001" x="5684" y="411" width="557" height="483" rotated="true" frameX="-12" frameY="-3" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10002" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10003" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10004" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10005" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10006" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10007" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10008" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman Right Note 10009" x="5121" y="411" width="560" height="482" rotated="true" frameX="-0" frameY="-0" frameWidth="495" frameHeight="560"/>
+	<SubTexture name="Tankman UP note 10000" x="528" y="836" width="620" height="492" rotated="true" frameX="-0" frameY="-1" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10001" x="528" y="836" width="620" height="492" rotated="true" frameX="-0" frameY="-1" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10002" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10003" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10004" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10005" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10006" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10007" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10008" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note 10009" x="1151" y="837" width="610" height="499" rotated="true" frameX="-7" frameY="-12" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman DOWN note MISS0000" x="3971" y="407" width="565" height="452" frameX="-11" frameY="-21" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0001" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0002" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0003" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0004" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0005" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0006" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0007" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0008" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0009" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0010" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0011" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0012" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman DOWN note MISS0013" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="591" frameHeight="473"/>
+	<SubTexture name="Tankman Note Left MISS0000" x="0" y="822" width="525" height="501" rotated="true" frameX="-0" frameY="-16" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0001" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0002" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0003" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0004" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0005" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0006" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0007" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0008" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Note Left MISS0009" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="510" frameHeight="543"/>
+	<SubTexture name="Tankman Right Note MISS0000" x="5684" y="411" width="557" height="483" rotated="true" frameX="-12" frameY="-3" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0001" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0002" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0003" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0004" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0005" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0006" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0007" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman Right Note MISS0008" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="505" frameHeight="561"/>
+	<SubTexture name="Tankman UP note MISS0000" x="528" y="836" width="620" height="492" rotated="true" frameX="-0" frameY="-1" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0001" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0002" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0003" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0004" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0005" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0006" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0007" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0008" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0009" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0010" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0011" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0012" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0013" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+	<SubTexture name="Tankman UP note MISS0014" x="0" y="0" width="1" height="1" frameX="-0" frameY="-0" frameWidth="506" frameHeight="623"/>
+</TextureAtlas>

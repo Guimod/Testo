@@ -1,0 +1,144 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    2,
+    0
+   ],
+   "nextAnim": "idleLoop",
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Christmas Idle",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    2,
+    0
+   ],
+   "frameRate": 12,
+   "prefix": "Parent Christmas Idle",
+   "frameIndices": [
+    10,
+    11,
+    12,
+    13
+   ],
+   "looped": true,
+   "name": "idleLoop"
+  },
+  {
+   "offsets": [
+    -47,
+    24
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Up Note Dad",
+   "looped": false,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    -30,
+    16
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Left Note Dad",
+   "looped": false,
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    -1,
+    -23
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Right Note Dad",
+   "looped": false,
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    -31,
+    -29
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Down Note Dad",
+   "looped": false,
+   "name": "singDOWN"
+  },
+  {
+   "offsets": [
+    -47,
+    24
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Up Note Mom",
+   "looped": false,
+   "name": "singUP-alt"
+  },
+  {
+   "offsets": [
+    -30,
+    15
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Left Note Mom",
+   "looped": false,
+   "name": "singLEFT-alt"
+  },
+  {
+   "offsets": [
+    -1,
+    -24
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Right Note Mom",
+   "looped": false,
+   "name": "singRIGHT-alt"
+  },
+  {
+   "offsets": [
+    -30,
+    -27
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Parent Down Note Mom",
+   "looped": false,
+   "name": "singDOWN-alt"
+  }
+ ],
+ "barType": "rgb",
+ "isDancing": false,
+ "camPos": [
+  200,
+  -100
+ ],
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "parents",
+ "rgbArray": [
+  175,
+  102,
+  206
+ ],
+ "asset": [
+  "characters/mom_dad_christmas_assets"
+ ],
+ "startingAnim": "idle",
+ "iconAnimated": false,
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "parents",
+ "replacesGF": false,
+ "scale": 1
+}

@@ -1,0 +1,99 @@
+{
+ "animations": [
+  {
+   "nextAnim": "idleLoop",
+   "offsets": [
+    0,
+    0
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Dad idle dance",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    0,
+    0
+   ],
+   "frameRate": 12,
+   "prefix": "Dad idle dance",
+   "frameIndices": [
+    11,
+    12
+   ],
+   "name": "idleLoop",
+   "looped": true
+  },
+  {
+   "offsets": [
+    -6,
+    50
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Dad Sing Note UP",
+   "looped": false,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    -10,
+    10
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Dad Sing Note LEFT",
+   "looped": false,
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    0,
+    27
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Dad Sing Note RIGHT",
+   "looped": false,
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    0,
+    -30
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Dad Sing Note DOWN",
+   "looped": false,
+   "name": "singDOWN"
+  }
+ ],
+ "barType": "rgb",
+ "isDancing": false,
+ "camPos": [
+  150,
+  -100
+ ],
+ "holdLength": 6.1,
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "dad",
+ "rgbArray": [
+  175,
+  102,
+  206
+ ],
+ "asset": [
+  "characters/DADDY_DEAREST"
+ ],
+ "startingAnim": "idle",
+ "iconAnimated": false,
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "dad",
+ "replacesGF": false,
+ "scale": 1
+}

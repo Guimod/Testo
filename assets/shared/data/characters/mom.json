@@ -1,0 +1,98 @@
+{
+ "animations": [
+  {
+   "offsets": [
+    0,
+    0
+   ],
+   "nextAnim": "idleLoop",
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Mom Idle",
+   "looped": false,
+   "name": "idle"
+  },
+  {
+   "offsets": [
+    0,
+    0
+   ],
+   "frameRate": 12,
+   "prefix": "Mom Idle",
+   "frameIndices": [
+    11,
+    12
+   ],
+   "looped": true,
+   "name": "idleLoop"
+  },
+  {
+   "offsets": [
+    14,
+    71
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Mom Up Pose",
+   "looped": false,
+   "name": "singUP"
+  },
+  {
+   "offsets": [
+    250,
+    -23
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Mom Left Pose",
+   "looped": false,
+   "name": "singLEFT"
+  },
+  {
+   "offsets": [
+    10,
+    -60
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "Mom Pose Left",
+   "looped": false,
+   "name": "singRIGHT"
+  },
+  {
+   "offsets": [
+    20,
+    -160
+   ],
+   "frameRate": 24,
+   "frameIndices": [],
+   "prefix": "MOM DOWN POSE",
+   "looped": false,
+   "name": "singDOWN"
+  }
+ ],
+ "barType": "rgb",
+ "isDancing": false,
+ "camPos": [
+  0,
+  0
+ ],
+ "flipAnimations": false,
+ "flipX": false,
+ "healthicon": "mom",
+ "rgbArray": [
+  216,
+  85,
+  142
+ ],
+ "asset": [
+  "characters/Mom_Assets"
+ ],
+ "startingAnim": "idle",
+ "iconAnimated": false,
+ "antialiasing": true,
+ "deadChar": "",
+ "name": "mom",
+ "replacesGF": false,
+ "scale": 1
+}

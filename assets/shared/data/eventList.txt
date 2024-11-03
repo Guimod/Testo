@@ -1,0 +1,7 @@
+BPM Change
+Scroll Speed Change
+Camera Focus
+Play Animation
+Change Zoom
+Zoom In
+Change Character
